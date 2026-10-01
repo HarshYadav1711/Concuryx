@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+.env
+results/*
+!results/.gitkeep
+_reference_inputs/
